@@ -5,10 +5,6 @@ date:   2013-09-14 20:02:21
 categories: jekyll update
 ---
 
-Why won't my equation show up? What's going on here?
-
-Example: $x^{n}+y^{n} \neq z^{n}$ for $n \geq 3$
-
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
