@@ -1,3 +1,4 @@
 name: Tree's Random Thoughts
-pygments: true
+highlighter: pygments
+
 
